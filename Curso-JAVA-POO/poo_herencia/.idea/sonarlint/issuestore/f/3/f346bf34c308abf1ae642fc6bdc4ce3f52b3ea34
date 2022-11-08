@@ -1,0 +1,30 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Éßæüÿÿÿÿ8âÐ°«Å0
+X	java:S125"<This block of commented-out lines of code should be removed.(ŽŸñÝ8€í°«Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉöªÜ8Œð®«Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÕçž8Œð®«Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ç€ 8Žð®«Å0
+a
+java:S6201"DReplace this instanceof check and cast with 'instanceof Fruta fruta'(‰ˆ½‘8óä¾«Å0
+a
+java:S6201"DReplace this instanceof check and cast with 'instanceof Fruta fruta'(‰ˆ½‘8ôä¾«Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öœŒ•ùÿÿÿÿ8µð®«Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ãƒš…8¶ð®«Å0
+l
+java:S6201"JReplace this instanceof check and cast with 'instanceof Limpieza limpieza'(¼ü•ëúÿÿÿÿ8öä¾«Å0
+l
+java:S6201"JReplace this instanceof check and cast with 'instanceof Limpieza limpieza'(¼ü•ëúÿÿÿÿ8÷ä¾«Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰íí…þÿÿÿÿ8·ð®«Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øôÂÒùÿÿÿÿ8¸ð®«Å0
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof Lacteo lacteo'(ô›·úþÿÿÿÿ8ùä¾«Å0
+h
+java:S6201"FReplace this instanceof check and cast with 'instanceof Lacteo lacteo'(ô›·úþÿÿÿÿ8úä¾«Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£Ñ‚úÿÿÿÿ8¹ð®«Å0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¢£‰ä8ºð®«Å0
+m
+java:S6201!"PReplace this instanceof check and cast with 'instanceof NoPerecible noperecible'(´Å¢‰8üä¾«Å0
+m
+java:S6201!"PReplace this instanceof check and cast with 'instanceof NoPerecible noperecible'(´Å¢‰8üä¾«Å0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(æË…¡8»ð®«Å0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÀñÇ±8¼ð®«Å0

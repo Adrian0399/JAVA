@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÂ•ÿÿÿÿÿ
+T
+java:S1854">Remove this useless assignment to local variable "intObjeto0".(·›±‹
+E
+java:S1481"/Remove this unused "intObjeto0" local variable.(·›±‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°¹þã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸´›èÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³›¿žùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(—Ô©÷þÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¢°†üÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íÒ¼ä8Œù®˜Å0

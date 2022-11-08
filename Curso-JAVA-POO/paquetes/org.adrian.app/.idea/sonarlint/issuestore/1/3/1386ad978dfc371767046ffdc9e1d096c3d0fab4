@@ -1,0 +1,15 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "saludo".(÷Í—€
+N
+java:S1854
+"9Remove this useless assignment to local variable "perro".(—ÍÿG
+K
+java:S1854	"5Remove this useless assignment to local variable "p".(ÿèòç
+<
+java:S1481	"&Remove this unused "p" local variable.(ÿèòç
+?
+java:S1481
+"*Remove this unused "perro" local variable.(—ÍÿG
+A
+java:S1481"+Remove this unused "saludo" local variable.(÷Í—€

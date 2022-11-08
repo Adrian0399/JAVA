@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Åôıÿÿÿÿ
+a
+java:S1659	"DDeclare "contPos" and all following declarations on a separate line.(¡ŞÓ¿8¿ï£Å0
+G
+java:S1197	"*Move the array designators [] to the type.(¡ŞÓ¿8 ¿ï£Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ÷åıÿÿÿÿ8¤¿ï£Å0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ñ¢‘¸ûÿÿÿÿ8¦¿ï£Å0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(œİ¬¹8§¿ï£Å0
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ååÿ‚8¨¿ï£Å0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¢±ıò8¨¿ï£Å0
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(ğÄå8©¿ï£Å0

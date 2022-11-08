@@ -1,0 +1,16 @@
+
+|
+java:S1192"`Define a constant instead of duplicating this literal "Comparando dos obetos boolean: " 4 times.(Ö¸á68‚°‰™Å0
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ö¸á68€£™Å0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÂ•ÿÿÿÿÿ
+8
+java:S1659""Declare "num2" on a separate line.(¹Ù¢Ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´ìù
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á’óùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ó¦âT
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¸á6
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(þÃÈûÿÿÿÿ8×è‡™Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãœ“¢8“°‰™Å0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü§¤üÿÿÿÿ8©ð‰™Å0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”Öïí8¥Ì™Å0

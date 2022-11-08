@@ -1,0 +1,12 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "generoHombre".(í–ßá
+Z
+java:S1854"?Remove this useless assignment to local variable "generoMujer".(Àá÷õøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€ˆ§Õüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óËæš
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ®ùÕüÿÿÿÿ
+K
+java:S1481"0Remove this unused "generoMujer" local variable.(Àá÷õøÿÿÿÿ
+G
+java:S1481"1Remove this unused "generoHombre" local variable.(í–ßá

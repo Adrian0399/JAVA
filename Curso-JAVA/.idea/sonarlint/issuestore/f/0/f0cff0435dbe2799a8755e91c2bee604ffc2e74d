@@ -1,0 +1,21 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(“ˆêòùÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(ÚÆÀÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ğ¸Ù©üÿÿÿÿ
+l
+java:S1192"VDefine a constant instead of duplicating this literal "strClass.getName() = " 3 times.(­øŞğ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÂ•ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­øŞğ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶µ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œæ§°şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†‚ğÉùÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(†‚ğÉùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®°ªšúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œÈã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¾Öşÿÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÒ‘<8ÖˆÆ™Å0
