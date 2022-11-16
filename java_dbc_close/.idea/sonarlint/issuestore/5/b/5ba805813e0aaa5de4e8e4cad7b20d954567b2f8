@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Çä´éşÿÿÿÿ8Âò«ŠÈ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ8Æò«ŠÈ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«›ôç8Èò«ŠÈ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÁØÊ¨8Éò«ŠÈ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ó€ûşÿÿÿÿ8Êò«ŠÈ0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¯ìı8Ğò«ŠÈ0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(…Æöÿÿÿÿÿ8æò«ŠÈ0
+e
+java:S1128"HRemove this unused import 'org.adrian.java.jdbc.util.ConexionBaseDatos'.(şÙ‡ú8É¯¬ŠÈ0
+M
+java:S1128	"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ê¯¬ŠÈ0
+O
+java:S1128
+"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ê¯¬ŠÈ0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8èò«ŠÈ0

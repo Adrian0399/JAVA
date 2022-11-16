@@ -1,0 +1,10 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(£Ã
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÖÿå
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ×‰Ê
+Q	java:S125"<This block of commented-out lines of code should be removed.(ùí†Œ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(šØæ–
+e
+java:S1128"JRemove this unused import 'org.adrian.hilos.ejemplos.runnable.ViajeTarea'.(¸á‹Àüÿÿÿÿ

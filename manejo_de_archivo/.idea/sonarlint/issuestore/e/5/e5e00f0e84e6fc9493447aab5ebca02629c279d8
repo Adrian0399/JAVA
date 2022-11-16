@@ -1,0 +1,7 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§˜ç„
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ß³Ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§˜ç„
+Q	java:S125"<This block of commented-out lines of code should be removed.(¬ß³Ò
+
+java:S4087:"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Æñ‘8ìæˆÇÇ0

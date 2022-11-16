@@ -1,0 +1,25 @@
+
+c
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(ƒ«ËĞ
+V
+java:S1854";Remove this useless assignment to local variable "futuro2".(Â°Õıÿÿÿÿ
+]
+java:S1854";Remove this useless assignment to local variable "futuro1".(çÑ…ûøÿÿÿÿ8—æŒÏÆ0
+
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Êšçë
+—
+java:S1130
+"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(Êšçë
+”
+java:S1130
+"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆ†­úÿÿÿÿ
+G
+java:S1481",Remove this unused "futuro1" local variable.(çÑ…ûøÿÿÿÿ
+N
+java:S1481",Remove this unused "futuro2" local variable.(Â°Õıÿÿÿÿ8’ÏÆ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆ†­úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨ç ûÿÿÿÿ

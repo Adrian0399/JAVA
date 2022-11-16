@@ -1,0 +1,27 @@
+
+a
+java:S1192,"KDefine a constant instead of duplicating this literal "en proceso" 3 times.(ëø†
+_
+java:S1192,"IDefine a constant instead of duplicating this literal "finalizo" 3 times.(ëø†
+h
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(õß‘Şúÿÿÿÿ
+”
+java:S1130"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(Êšçë
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ıãô”
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÆ†­úÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Î½½M
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıÌí ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û’ÿˆÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß‹»ÿÿÿÿÿ
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ıãô”8úñøÎÆ0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ŸÆ†­úÿÿÿÿ8üñøÎÆ0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(¨ç ûÿÿÿÿ8şñøÎÆ0
+]	java:S125)"<This block of commented-out lines of code should be removed.(Ëó¥§úÿÿÿÿ8ûñøÎÆ0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(„šÎóûÿÿÿÿ8ÿñøÎÆ0
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¯ŞÙ¥8€òøÎÆ0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(İÙ‚‹úÿÿÿÿ8€òøÎÆ0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ş¾°Úıÿÿÿÿ8€òøÎÆ0
+T	java:S1065"9Replace this use of System.out or System.err by a logger.(à¶õ38òøÎÆ0
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ÅÆšÛşÿÿÿÿ8÷æùÎÆ0
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(°¡®¸8÷æùÎÆ0

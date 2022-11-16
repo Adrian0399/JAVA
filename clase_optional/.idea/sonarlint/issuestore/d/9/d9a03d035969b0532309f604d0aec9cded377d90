@@ -1,0 +1,23 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Hola " 3 times.(¢üÓî
+M
+java:S2589"7Remove this expression which always evaluates to "true"(Î³Ø­
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(Î³Ø­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à¾èú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÂè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢üÓî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë™ëÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Íõ»³
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à¾èú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÂè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë™ëÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£¶£íúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©Ò¥×üÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¢üÓî
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ºü«ìúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(â’Ø
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ĞÖ—¶ùÿÿÿÿ
+N
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:

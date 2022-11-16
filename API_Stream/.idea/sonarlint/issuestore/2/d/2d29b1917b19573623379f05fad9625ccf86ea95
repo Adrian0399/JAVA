@@ -1,0 +1,8 @@
+
+7
+java:S3864"!Remove this use of "Stream.peek".(ßˆ±ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßˆ±ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©üÌöûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ì®è˜øÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Â¯”ñÆ0

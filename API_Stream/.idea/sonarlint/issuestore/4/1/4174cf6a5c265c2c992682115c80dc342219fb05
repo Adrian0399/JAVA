@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(â¡ğ¦
+X
+java:S1612";Replace this lambda with method reference 'Arrays::stream'.(àÆÈ…8‰ÕôõÆ0
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¼Ì×ùüÿÿÿÿ8‰ÕôõÆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ì×ùüÿÿÿÿ8èÁòõÆ0
+X	java:S125"<This block of commented-out lines of code should be removed.(â¡ğ¦8•‹÷õÆ0

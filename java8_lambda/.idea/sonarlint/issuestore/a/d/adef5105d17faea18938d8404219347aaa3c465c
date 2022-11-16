@@ -1,0 +1,13 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(“´îŒúÿÿÿÿ
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(°Ô•şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıã¹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ„±’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åƒæ‹
+V	java:S125"<This block of commented-out lines of code should be removed.(Ïö›ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¶·ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ€×áùÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'com.sun.xml.internal.ws.api.ha.StickyFeature'.(“´îŒúÿÿÿÿ

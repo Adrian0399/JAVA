@@ -1,0 +1,9 @@
+
+q
+java:S2095
+"VUse try-with-resources or close this "ScheduledExecutorService" in a "finally" clause.(„é«ïúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Î½½M
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ıÌí ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û’ÿˆÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ç ûÿÿÿÿ8¤±ÌÆ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ„æïùÿÿÿÿ8ÕûÌÆ0

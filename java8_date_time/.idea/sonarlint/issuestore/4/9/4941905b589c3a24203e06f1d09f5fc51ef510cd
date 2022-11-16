@@ -1,0 +1,28 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "fechaActual = " 4 times.(åÃì¬úÿÿÿÿ
+S
+java:S1854-"8Remove this useless assignment to local variable "once".(Ôßæ¾ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÃì¬úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È¡»ıøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŠøÄ‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿö•ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šá²¬ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ĞØ­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïˆ¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨¢Å
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ—‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦”’ğ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(´²àf
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÃì¬úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÃì¬úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(åÃì¬úÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÀˆªŸ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ğ¡øÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(×Ôğúÿÿÿÿ
+D
+java:S1481-")Remove this unused "once" local variable.(Ôßæ¾ùÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ßÖ×ÿÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ı¸«°üÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(Êô‡
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Êô‡

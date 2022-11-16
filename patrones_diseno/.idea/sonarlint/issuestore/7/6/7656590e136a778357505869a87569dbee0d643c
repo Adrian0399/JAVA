@@ -1,0 +1,15 @@
+
+[
+java:S5993"9Change the visibility of this constructor to "protected".(ÿÑ÷Ãûÿÿÿÿ8‘‰€Ç0
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¨Â¢Áüÿÿÿÿ8şœüÇ0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ş¸ëúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ó×¿¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ†‰Ó
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğÛÀœıÿÿÿÿ8“¨øÇ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øìÎ8“¨øÇ0
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(è’¹¢8æåşÇ0
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(œ‘ë‘ıÿÿÿÿ8 ‰€Ç0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(…ı¯®8±ŒúÇ0
