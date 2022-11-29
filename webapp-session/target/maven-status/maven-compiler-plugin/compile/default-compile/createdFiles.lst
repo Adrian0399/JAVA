@@ -1,0 +1,12 @@
+org\adrian\apiservlet\webapp\headers\controllers\LoginServlet.class
+org\adrian\apiservlet\webapp\headers\service\ProductoServiceImpl.class
+org\adrian\apiservlet\webapp\headers\controllers\ProductoServlet.class
+org\adrian\apiservlet\webapp\headers\models\Producto.class
+org\adrian\apiservlet\webapp\headers\controllers\PerfilUsuarioServlet.class
+org\adrian\apiservlet\webapp\headers\controllers\CambiarColorServlet.class
+org\adrian\apiservlet\webapp\headers\controllers\LogoutServlet.class
+org\adrian\apiservlet\webapp\headers\service\LoginServiceSessionImpl.class
+org\adrian\apiservlet\webapp\headers\controllers\GuardarNombreSessionServlet.class
+org\adrian\apiservlet\webapp\headers\service\LoginService.class
+org\adrian\apiservlet\webapp\headers\service\ProductoService.class
+org\adrian\apiservlet\webapp\headers\service\LoginServiceCookieImpl.class
