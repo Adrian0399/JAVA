@@ -24,6 +24,8 @@ public class ProductoServlet extends HttpServlet {
         LoginService auth = new LoginServiceSessionImpl();
         Optional<String> usernameOptional = auth.getUsername(req);
 
+        String mensajeRequest = (String) req.getAttribute("mensaje");
+        String mensajeApp = (String) getServletContext().getAttribute("mensaje");
         resp.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = resp.getWriter()) {
 
@@ -39,25 +41,31 @@ public class ProductoServlet extends HttpServlet {
                 out.println("<div style='color: blue;'> Hola" + usernameOptional.get() + " Bienvenido! </div>");
             }
             out.println("       <table>");
-            out.println("           <tr>");
-            out.println("               <th>id</th>");
-            out.println("               <th>nombre</th>");
-            out.println("               <th>tipo</th>");
-            if (usernameOptional.isPresent()) {
-                out.println("               <th>precio</th>");
-            }
-            out.println("           </tr>");
-            productos.forEach(p -> {
-                out.println("<tr>");
-                out.println("<td>" + p.getId() + "</td>");
-                out.println("<td>" + p.getNombre() + "</td>");
-                ;out.println("<td>" + p.getTipo() + "</td>");
-                if (usernameOptional.isPresent()) {
-                ;out.println("<td>" + p.getPrecio() + "</td>");
-                }
-                ;out.println("</tr>");
-            });
+                out.println("           <tr>");
+                    out.println("               <th>id</th>");
+                    out.println("               <th>nombre</th>");
+                    out.println("               <th>tipo</th>");
+                    if (usernameOptional.isPresent()) {
+                        out.println("               <th>precio</th>");
+                        out.println("               <th>agregar</th>");
+                    }
+                out.println("           </tr>");
+                productos.forEach(p -> {
+                    out.println("<tr>");
+                    out.println("<td>" + p.getId() + "</td>");
+                    out.println("<td>" + p.getNombre() + "</td>");
+                    ;out.println("<td>" + p.getTipo() + "</td>");
+                        if (usernameOptional.isPresent()) {
+                        ;out.println("<td>" + p.getPrecio() + "</td>");
+                        ;out.println("<td> <a href=\"" + req.getContextPath()
+                                    + "/carro/agregar?id=" + p.getId()
+                                    + "\">Agregar al carro</a></td>");
+                        }
+                    ;out.println("</tr>");
+                });
             out.println("       </table>");
+            out.println("       <p>" + mensajeApp + "</p>");
+            out.println("       <p>" + mensajeRequest + "</p>");
             out.println("   </body>");
             out.println("</html>");
         }
