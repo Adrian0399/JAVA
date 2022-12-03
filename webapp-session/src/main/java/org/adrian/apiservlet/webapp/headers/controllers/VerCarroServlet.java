@@ -10,7 +10,6 @@ import java.io.IOException;
 
 @WebServlet("/carro/ver")
 public class VerCarroServlet extends HttpServlet {
-
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         getServletContext().getRequestDispatcher("/carro.jsp").forward(req, resp);

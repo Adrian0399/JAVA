@@ -3,7 +3,6 @@ package org.adrian.apiservlet.webapp.headers.models;
 import java.util.Objects;
 
 public class ItemCarro {
-
     private int cantidad;
     private Producto producto;
 
@@ -37,8 +36,7 @@ public class ItemCarro {
                 && Objects.equals(producto.getNombre(), itemCarro.producto.getNombre());
     }
 
-    public int getImporte(){
+    public int getImporte() {
         return cantidad * producto.getPrecio();
     }
 }
-

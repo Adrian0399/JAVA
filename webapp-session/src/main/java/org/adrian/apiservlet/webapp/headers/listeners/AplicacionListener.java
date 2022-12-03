@@ -13,34 +13,32 @@ public class AplicacionListener implements ServletContextListener,
 
     private ServletContext servletContext;
 
-
     @Override
     public void contextInitialized(ServletContextEvent sce) {
-        sce.getServletContext().log("Inicializando la aplicación!");
-        servletContext  = sce.getServletContext();
+        sce.getServletContext().log("inicializando la aplicacion!");
+        servletContext = sce.getServletContext();
         servletContext.setAttribute("mensaje", "algun valor global de la app!");
     }
 
     @Override
     public void contextDestroyed(ServletContextEvent sce) {
-        servletContext.log("Destruyendo la aplicación!");
+        servletContext.log("destruyendo la aplicacion!");
     }
 
     @Override
     public void requestInitialized(ServletRequestEvent sre) {
-        sre.getServletRequest().setAttribute("nombreCompleto", "Adrian Olvera Ordoñez");
-        //servletContext.log("Inicializando el request!");
-        //sre.getServletRequest().setAttribute("mensaje", "guardando algun valor para el request");
+        servletContext.log("inicializando el request!");
+        sre.getServletRequest().setAttribute("mensaje", "guardando algun valor para el request");
     }
 
     @Override
     public void requestDestroyed(ServletRequestEvent sre) {
-        servletContext.log("Destruyendo el request!");
+        servletContext.log("destruyendo el request!");
     }
 
     @Override
     public void sessionCreated(HttpSessionEvent se) {
-        servletContext.log("Inicializando la sesion http");
+        servletContext.log("inicializando la sesion http");
         Carro carro = new Carro();
         HttpSession session = se.getSession();
         session.setAttribute("carro", carro);
@@ -48,6 +46,6 @@ public class AplicacionListener implements ServletContextListener,
 
     @Override
     public void sessionDestroyed(HttpSessionEvent se) {
-        servletContext.log("Destruyeno la sesion http");
+        servletContext.log("destruyendo la sesion http");
     }
 }

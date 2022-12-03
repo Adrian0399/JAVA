@@ -3,9 +3,9 @@ package org.adrian.apiservlet.webapp.headers.controllers;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.*;
-import org.adrian.apiservlet.webapp.headers.service.LoginService;
-import org.adrian.apiservlet.webapp.headers.service.LoginServiceCookieImpl;
-import org.adrian.apiservlet.webapp.headers.service.LoginServiceSessionImpl;
+import org.adrian.apiservlet.webapp.headers.services.LoginService;
+import org.adrian.apiservlet.webapp.headers.services.LoginServiceCookieImpl;
+import org.adrian.apiservlet.webapp.headers.services.LoginServiceSessionImpl;
 
 import java.io.IOException;
 import java.util.Optional;
@@ -16,8 +16,8 @@ public class LogoutServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
         LoginService auth = new LoginServiceSessionImpl();
-        Optional<String> username =auth.getUsername(req);
-        if (username.isPresent()){
+        Optional<String> username = auth.getUsername(req);
+        if (username.isPresent()) {
             HttpSession session = req.getSession();
             session.invalidate();
         }
