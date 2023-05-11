@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6377f76c-acea-4905-b7fc-5ba13e85a5d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/filters/ConexionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/repositories/ProductoRepositoryJdbcImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/repositories/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/util/ConexionBaseDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/controllers/BuscarCursoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/controllers/CursoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/models/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/repositories/CursoRepositorioImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/repositories/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/services/CursoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/java/services/CursoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webappTarea-9/src/main/webapp/listar.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/ActualizarCarroServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/ActualizarCarroServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/AgregarCarroServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/AgregarCarroServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/CambiarColorServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/GuardarNombreSessionServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/IndexServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/PerfilUsuarioServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/ProductoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/ProductoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/VerCarroServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/controllers/VerCarroServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/filters/LoginFiltro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/filters/LoginFiltro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/filters/TiempoTranscurridoFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/listeners/AplicacionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/listeners/AplicacionListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/ItemCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/ItemCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/models/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/service/LoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/service/LoginServiceCookieImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/service/LoginServiceSessionImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/service/ProductoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/adrian/apiservlet/webapp/headers/service/ProductoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/carro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/carro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/color.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/tarea4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/ActualizarCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/AgregarCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/CambiarColorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/GuardarNombreSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/IndexServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/PerfilUsuarioServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/ProductoServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/controllers/VerCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/filters/LoginFiltro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/filters/TiempoTranscurridoFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/listeners/AplicacionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/models/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/models/ItemCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/models/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/service/LoginServiceCookieImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/service/LoginServiceSessionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/service/ProductoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/adrian/apiservlet/webapp/headers/service/ProductoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/ActualizarCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/AgregarCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/CambiarColorServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/GuardarNombreSessionServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/IndexServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/PerfilUsuarioServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/ProductoServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/controllers/VerCarroServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/filters/LoginFiltro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/filters/TiempoTranscurridoFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/listeners/AplicacionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/models/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/models/ItemCarro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/models/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/LoginService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/LoginServiceCookieImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/LoginServiceSessionImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/ProductoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/classes/org/adrian/apiservlet/webapp/headers/service/ProductoServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/lib/jackson-annotations-2.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/lib/jackson-core-2.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/WEB-INF/lib/jackson-databind-2.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/carro.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/color.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-session/tarea4.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IQFxatf1gWcm3Z7Q8wh8Ib55VI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/adria/OneDrive/Documentos/GitHub/JAVA/webapp-session"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6377f76c-acea-4905-b7fc-5ba13e85a5d3" name="Changes" comment="" />
+      <created>1670106149278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670106149278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
